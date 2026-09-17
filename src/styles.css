@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --cor-botao-principal:#2563eb;
+    --cor-botao-hover:#1042cc;
+    --cor-fundo:#1c85ef;
+    --btn-vizualizacao:#f1f5f9;
+}
+
