@@ -1,60 +1,96 @@
-Controle de Pátio
+# 🚗 Controle de Pátio
 
-Sistema web desenvolvido em Angular para gerenciamento de veículos em um pátio.
+Sistema web desenvolvido em **Angular** para gerenciamento de veículos em um pátio.
 
-O projeto permite cadastrar veículos, visualizar os veículos cadastrados e removê-los do sistema, utilizando uma interface simples e responsiva.
+A aplicação permite cadastrar, visualizar e remover veículos, além de realizar validações dos dados informados no formulário.
 
-Tecnologias utilizadas
-Angular
-TypeScript
-HTML5
-CSS3
-Angular Forms
-Git
-GitLab
-Funcionalidades
-Cadastro de veículos
-Informações do proprietário
-Registro da placa do veículo
-Registro do modelo
-Registro da data de entrada
-Validação dos campos obrigatórios
-Verificação de placa duplicada
-Remoção de veículos cadastrados
-Visualização em formato de cards
-Visualização em formato de tabela
-Modal para cadastro de veículos
-Mensagens de erro para campos não preenchidos
-Como executar o projeto
-Pré-requisitos
+## 🛠️ Tecnologias utilizadas
 
-É necessário ter instalado:
+* Angular
+* TypeScript
+* HTML5
+* CSS3
+* Angular Forms
+* Git
+* GitHub
 
-Node.js
-npm
-Angular CLI
-Instalação
+## ✨ Funcionalidades
 
-Clone o projeto:
+* Cadastro de veículos
+* Registro do proprietário
+* Registro da placa do veículo
+* Registro do modelo
+* Registro da data de entrada
+* Validação dos campos obrigatórios
+* Verificação de placas duplicadas
+* Remoção de veículos cadastrados
+* Visualização dos veículos em cards
+* Visualização dos veículos em tabela
+* Modal para cadastro de veículos
+* Mensagens de erro para campos não preenchidos
+* Limpeza do formulário ao cancelar o cadastro
 
-git clone URL_DO_REPOSITORIO
+## 📋 Dados do veículo
 
-Entre na pasta:
+Para realizar um cadastro, são solicitadas as seguintes informações:
 
+* Nome do proprietário
+* Placa do veículo
+* Modelo
+* Data de entrada
+
+ Como executar o projeto
+
+### Pré-requisitos
+
+Antes de executar o projeto, certifique-se de ter instalado:
+
+* [Node.js](https://nodejs.org/)
+* npm
+* Angular CLI
+
+### Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/rafaelfonte-stack/controle-patio.git
+```
+
+Entre na pasta do projeto:
+
+```bash
 cd controle-patio
+```
 
 Instale as dependências:
 
+```bash
 npm install
+```
 
-Execute o projeto:
+Execute a aplicação:
 
+```bash
 ng serve
+```
 
-Depois, acesse no navegador:
+Após iniciar o servidor, acesse no navegador:
 
+```text
 http://localhost:4200
+```
 
-Autor
 
-Rafael Fontenele Araujo
+
+## Objetivo
+
+O projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvimento front-end utilizando **Angular e TypeScript**, incluindo componentes, formulários, validação de dados, manipulação de listas e organização de código.
+
+## Autor
+
+**Rafael Fontenele Araujo**
+
+### Repositório
+
+[GitHub — Controle de Pátio](https://github.com/rafaelfonte-stack/controle-patio?utm_source=chatgpt.com)
