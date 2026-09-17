@@ -1,10 +1,10 @@
-# 🚗 Controle de Pátio
+# Controle de Pátio
 
 Sistema web desenvolvido em **Angular** para gerenciamento de veículos em um pátio.
 
 A aplicação permite cadastrar, visualizar e remover veículos, além de realizar validações dos dados informados no formulário.
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * Angular
 * TypeScript
@@ -14,7 +14,7 @@ A aplicação permite cadastrar, visualizar e remover veículos, além de realiz
 * Git
 * GitHub
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 * Cadastro de veículos
 * Registro do proprietário
@@ -30,7 +30,7 @@ A aplicação permite cadastrar, visualizar e remover veículos, além de realiz
 * Mensagens de erro para campos não preenchidos
 * Limpeza do formulário ao cancelar o cadastro
 
-## 📋 Dados do veículo
+##  Dados do veículo
 
 Para realizar um cadastro, são solicitadas as seguintes informações:
 
@@ -81,16 +81,7 @@ Após iniciar o servidor, acesse no navegador:
 http://localhost:4200
 ```
 
-
-
-## Objetivo
-
-O projeto foi desenvolvido com o objetivo de praticar conceitos de desenvolvimento front-end utilizando **Angular e TypeScript**, incluindo componentes, formulários, validação de dados, manipulação de listas e organização de código.
-
 ## Autor
 
 **Rafael Fontenele Araujo**
 
-### Repositório
-
-[GitHub — Controle de Pátio](https://github.com/rafaelfonte-stack/controle-patio?utm_source=chatgpt.com)
